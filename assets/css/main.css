@@ -10,3 +10,8 @@ body {
    background-size: cover;
    overflow: hidden;
 }
+
+#ship {
+   width: 50px;
+   height: auto;
+}
